@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+*.spec
+ffmpeg.exe
+ffprobe.exe
+*_合併.*
+release/
+ffmpeg_dl/
+ffmpeg_dl.zip
